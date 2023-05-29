@@ -1,4 +1,4 @@
-# twitch-obs-scene-changer
+# twitch-ai-newscaster
 Listens for a command in a Twitch Channels chat, sends to OpenAI API, generate vocalized response.
 
 Originally a fork from https://github.com/Pedrolian/twitch-obs-scene-changer
