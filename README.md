@@ -17,7 +17,9 @@ Run npm install to download dependencies.
 npm install
 ```
 Install VLC player
+```
 https://www.videolan.org/vlc/
+```
 
 Configure OBS.
 ```
