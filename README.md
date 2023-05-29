@@ -4,6 +4,8 @@ Listens for a command in a Twitch Channels chat, sends to OpenAI API, generate v
 Originally a fork from https://github.com/Pedrolian/twitch-obs-scene-changer
 But has become its own thing. 
 
+This will listen to a twitch channel's chat for the !talk command. It will take everything after that and send it to OpenAI's API. The response will be saved in a text file, then converted to speech and automatically played back. 
+
 ### Prerequisites
 * [NodeJS](https://nodejs.org/en/) - NodeJS v.10
 * [OBS-Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/)
