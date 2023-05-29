@@ -69,3 +69,7 @@ Configure OBS to change scenes when sound is active.
   
 ![Settings](/advSceneswitch.PNG "Settings")
   
+
+
+https://github.com/N-Erickson/Twitch-AI-Newscaster/assets/16261609/ba15a541-f8d3-4e5a-b532-59bfe13aff8a
+
