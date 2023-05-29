@@ -6,6 +6,9 @@ But has become its own thing.
 
 This will listen to a twitch channel's chat for the !talk command. It will take everything after that and send it to OpenAI's API. The response will be saved in a text file, then converted to speech and automatically played back. 
 
+# Use at your own risk
+I has some pretty strict twitch restrictions and people still found ways to circumvent the filters and have the AI say pretty despicable things. It did result in a twitch channel ban.  I would recommend adding some error checking and input sanitization into the program itself. 
+
 ### Prerequisites
 * [NodeJS](https://nodejs.org/en/) - NodeJS v.10
 * [OBS-Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/)
