@@ -1,6 +1,9 @@
 # twitch-obs-scene-changer
 Listens for a command in a Twitch Channels chat, sends to OpenAI API, generate vocalized response.
 
+Originally a fork from https://github.com/Pedrolian/twitch-obs-scene-changer
+But has become its own thing. 
+
 ### Prerequisites
 * [NodeJS](https://nodejs.org/en/) - NodeJS v.10
 * [OBS-Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/)
