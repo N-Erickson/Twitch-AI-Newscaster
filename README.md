@@ -7,6 +7,7 @@ But has become its own thing.
 ### Prerequisites
 * [NodeJS](https://nodejs.org/en/) - NodeJS v.10
 * [OBS-Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/)
+* [OpenAI API Key](https://platform.openai.com/account/api-keys)
 
 ### Installing
 Run npm install to download dependencies.
