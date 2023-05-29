@@ -55,8 +55,12 @@ node dynamic.js
   
 I created the background images, logos, and presenter images with Midjourney
   https://www.midjourney.com/
+  
+  
 To animate them, I used D-ID
   https://www.d-id.com/
+  
+  
 Create an animated face at rest, and a second video of text to speech.  Alternatively you could create a paid account and connect requests to the D-ID API. 
   
 Create a scene in OBS at rest and a Scene with the speaking face. 
