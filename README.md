@@ -13,6 +13,8 @@ I has some pretty strict twitch restrictions and people still found ways to circ
 * [NodeJS](https://nodejs.org/en/) - NodeJS v.10
 * [OBS-Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/)
 * [OpenAI API Key](https://platform.openai.com/account/api-keys)
+* [Python](https://python.org)
+
 
 ### Installing
 Run npm install to download dependencies.
