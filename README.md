@@ -37,7 +37,7 @@ Enter a password
 Configure .env file
 ```
 TWITCH_CHANNEL="" // <-- Your twitch username
-OPENAI_API_KEY="KEY"
+OPENAI_API_KEY="KEY" // <-- OpenAI API Key
 
 OBS_URL="localhost:4444" // <-- OBS Plugin url. "localhost:4444" is the default url:port if connecting to OBS locally and using default port in plugin
 OBS_PASSWORD="" // <-- OBS Plugin password
