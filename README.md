@@ -43,9 +43,9 @@ OBS_URL="localhost:4444" // <-- OBS Plugin url. "localhost:4444" is the default 
 OBS_PASSWORD="" // <-- OBS Plugin password
 ```
 
-Configure line 11 on dynamic.js if you want to use the "!scene <scene name>" command to a different command name
+Configure line 7 on dynamic.js if you want to use the "!talk <user input>" command to a different command name
 ```
-const COMMAND_NAME = "!scene"; // Command to type in chat.
+const COMMAND_NAME = "!talk"; // Command to type in chat.
 ```
 
 Configure OpenAI API key in text_to_speech.py
