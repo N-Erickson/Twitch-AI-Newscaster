@@ -21,6 +21,11 @@ Run npm install to download dependencies.
 ```
 npm install
 ```
+Install the OpenAI package
+```
+pip install openai
+```
+
 Install VLC player
 ```
 https://www.videolan.org/vlc/
